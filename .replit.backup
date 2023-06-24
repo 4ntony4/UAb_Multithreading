@@ -1,0 +1,2 @@
+language = "c"
+run = "./out/mtex 7 40 5 4"
